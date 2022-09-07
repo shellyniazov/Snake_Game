@@ -1,0 +1,14 @@
+.menu {
+  background: rgb(245, 245, 245);
+}
+
+.menu .link a {
+  color: #00000094;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.menu img {
+  height: 100px;
+}
